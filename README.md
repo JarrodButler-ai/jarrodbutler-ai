@@ -1,6 +1,6 @@
 # Jarrod Butler
 
-I am a technology-driven problem solver with a focus on building practical, scalable solutions that deliver real results for businesses and users.
+I am a technology-driven problem solver with a focus on building practical, scalable solutions that deliver measurable results for businesses and users.
 
 **Core Skills**
 - Python Development
@@ -20,3 +20,5 @@ Deliver innovative, efficient, and user-focused technology solutions for forward
 **Contact**
 - Email: jarrodbutler.ai@gmail.com
 - LinkedIn: [Coming soon]
+
+- Updated profile README
